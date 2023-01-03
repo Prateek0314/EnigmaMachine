@@ -1,3 +1,5 @@
+The following lists how each rotor encrypts a given input
+
 Rotor 1 Encryption:
 A->J
 B->G
